@@ -1,15 +1,15 @@
 # Real Time Covid Data Analysis
 ------------------------------------------------------------
 ## About
-A tiny project on 'Real Time Covid Data Analysis' is about exploring, visualising and plotting the covid dataset on map using a powerful </br> 
-Data Mining tool [Orange](https://orangedatamining.com/). In this project, a real time covid dataset is used provided by CSSE at Johns Hopkins University, Baltimore, MD</br>
+A tiny project on 'Real Time Covid Data Analysis' is about exploring, visualising and plotting the covid dataset on map using a powerful 
+Data Mining tool [Orange](https://orangedatamining.com/). In this project, a real time covid dataset is used provided by CSSE at Johns Hopkins University, Baltimore, MD
 on their [github page](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data).
 
 ## Requirements
-Get Orange installed on your system from the [download link](https://orangedatamining.com/download/).</br>
+Get Orange installed on your system from the [download link](https://orangedatamining.com/download/).
 
 ## Add-ons Required
-After the successful set up, start the Orange and navigate through "Options" on the top left corner and click on "Add-ons..." under it. A pop up </br>
+After the successful set up, start the Orange and navigate through "Options" on the top left corner and click on "Add-ons..." under it. A pop up 
 window "Installer - Orange" appears, add the required packages "Geo" and "TimeSeries" and then restart Orange.
 
 ## Walkthrough the Project
