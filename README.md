@@ -17,4 +17,4 @@ window "Installer - Orange" appears, add the required packages "Geo" and "TimeSe
 
 ## 1. Import DataSet into File Widget
 - From the "Data" section, either click on or drag the "File" widget to the white Canvas on right.
-- Double-click the File widget, File window will pop out select "url" and enter the url for the file (file to be either excel, csv or tab).
+- Double-click the File widget, File window will pop out select "url" and enter the [url]() for the file (file to be either excel, csv or tab).
