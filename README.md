@@ -18,20 +18,15 @@ window "Installer - Orange" appears, add the required packages "Geo" and "TimeSe
 ## 1. Import dataset into File widget
 - From the "Data" section, either click on or drag the "File" widget to the white Canvas on right.
 - Double-click the File widget, File window will pop out select "url" and enter the [url](https://github.com/Divya-Juhi-Singh/Covid_Analysis/blob/main/covid_dataset.md) for the file (file to be either excel, csv or tab).
-![File]()
 
 ## 2. Preprocess the data
 - Use the "Preprocess" widget to remove missing values if any, by drawing a line between File and Preprocess.
 - Use "Select Columns" widget to remove the "Province/ Region" field as it contains too many missing values moreover removing it won't affect our results. Similar to the previous act of join two widgets, join Preprocess to Select Columns.
-![Preprocess]()
-![Select Columns]()
 
 ## 3. Exploring the data using Line Plot
 - Place the "Line Plot" on canvas and join it to the right of Select Columns.
 - For exploring covid data, sketch a line over the Line Plot to select few lines of the plot.
 - To see the results of selected lines in tabular format join Data Table to the right of Line Plot.
-![Line Plot]()
-![Data Table]()
 
 ## 4. Visualising covid dataset using Geo Map
 - Place the "Geo Map" on canvas and join it to the right of Select Columns.
