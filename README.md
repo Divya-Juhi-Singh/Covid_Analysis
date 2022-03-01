@@ -52,5 +52,5 @@ window "Installer - Orange" appears, add the required packages "Geo" and "TimeSe
 - Select a few countries from the country list on left. The graph for analysis will be shown on the rightside. 
 - You can place the pointer at any point of time, the number of cases will be displayed over to you for the countries have been selected earlier.
 
-
-
+## Snapshot of project workflow
+![Workflow for Covid Analysis using Orange](https://github.com/Divya-Juhi-Singh/Covid_Analysis/blob/main/project%20workflow.jpg)
